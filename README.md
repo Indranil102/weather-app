@@ -1,6 +1,10 @@
 # WeatherNow App
 
 WeatherNow is an Android application developed in Kotlin using Android Studio. It provides users with real-time weather updates and temperature readings for various locations.
+# {App Preview}
+![Uploading Screenshot 2024-04-23 115025.png…]()
+
+
 
 ## Features
 
